@@ -7,15 +7,15 @@ In this virtual internship program, there were 4 major tasks that needed to be p
 ### Task 2: Examine the transparency through KPIs and insights of Call Center Data Trends and Analysis of a telecom company for the first quarter of the year.
   In this task, we were given a call centre dataset. The task is to analyze the call centre trends such as -
   
-  a) Overall customer satisfaction
+  + Overall customer satisfaction
   
-  b) Overall calls answered/abandoned
+  + Overall calls answered/abandoned
   
-  c) Calls by time
+  + Calls by time
   
-  d) Average speed of answer, and
+  + Average speed of answer, and
   
-  e) Agent's performance
+  + Agent's performance
   
 Building a dashboard using Power BI gives us more clarity about how actual work happens in real-time by solving real case problems, it was a challenge as well as very exciting to learn.
 
@@ -27,11 +27,11 @@ Here is a dashboard I created for a telecom client-
 
   In this task, we performed a customer churn analysis by -
   
-  1.	Defining proper KPIs
+  +	Defining proper KPIs
      
-  2.	Creating a dashboard for the retention manager reflecting the KPIs
+  +	Creating a dashboard for the retention manager reflecting the KPIs
      
-  3.	Writing a short email to him (the engagement partner) explaining your findings, and include suggestions as to what needs to be changed
+  +	Writing a short email to him (the engagement partner) explaining your findings, and include suggestions as to what needs to be changed
 
 The dashboard is as follows-
 
@@ -48,25 +48,25 @@ Page 2-
 
 In this task, we have worked on multiple parameters for the given dataset. It is as follows-
 
-•	Number of men
++	Number of men
 
-•	Number of women
++	Number of women
 
-•	Number of leavers
++	Number of leavers
 
-•	% employees promoted (FY21)
++	% employees promoted (FY21)
 
-•	% of women promoted
++	% of women promoted
 
-•	% of hires men
++	% of hires men
 
-•	% of hires women
++	% of hires women
 
-•	% turnover 
++	% turnover 
 
-•	Average performance rating: men
++	Average performance rating: men
 
-•	Average Performance rating: women
++	Average Performance rating: women
 
 The dashboard is given below-
 
