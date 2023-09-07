@@ -1,10 +1,10 @@
 # Power BI Virtual Case Experience by PWC
 
-In this virtual internship program, there were 4 major tasks that needed to be performed for gaining practical experience in learning PowerBI and also leveraging aspects of data visualization through dashboards and reports.
+In this virtual internship program, there were 4 major tasks that needed to be performed to gain practical experience in learning PowerBI and also leveraging aspects of data visualization through dashboards and reports.
 
-# Task 1: Introduction to PowerBI and its trends.
+### Task 1: Introduction to PowerBI and its trends.
 
-# Task 2: Examine the transparency through KPIs and insights of Call Center Data Trends and Analysis of a telecom company for the first quarter of the year.
+### Task 2: Examine the transparency through KPIs and insights of Call Center Data Trends and Analysis of a telecom company for the first quarter of the year.
   In this task, we were given a call centre dataset. The task is to analyze the call centre trends such as -
   
   a) Overall customer satisfaction
@@ -17,13 +17,13 @@ In this virtual internship program, there were 4 major tasks that needed to be p
   
   e) Agent's performance
   
-Building a dashboard using Power Bi gives us more clarity about how actual work happens in Real-time by solving real case problems, it was a challenge as well as very exciting to learn.
+Building a dashboard using Power BI gives us more clarity about how actual work happens in real-time by solving real case problems, it was a challenge as well as very exciting to learn.
 
 Here is a dashboard I created for a telecom client-
 
 ![image](https://github.com/tathodtushar99/Call-Center-Analysis/assets/90443509/4a30c61f-65e7-452a-84e3-9473bec183eb)
 
-# Task 3: Customer Retention
+### Task 3: Customer Retention
 
   In this task, we performed a customer churn analysis by -
   
@@ -44,7 +44,7 @@ Page 2-
 
 ![pwc_task3-d2](https://github.com/tathodtushar99/Pwc-PowerBI-Virtual-Case-Experience/assets/90443509/3ffc9a2f-f096-481a-a5b7-58f014754289)
 
-# Task 4: Diversity and Inclusion
+### Task 4: Diversity and Inclusion
 
 In this task, we have worked on multiple parameters for the given dataset. It is as follows-
 
